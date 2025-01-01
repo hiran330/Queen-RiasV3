@@ -2,10 +2,10 @@ require('dotenv').config(); // Load environment variables
 
 module.exports = {
     prefix: process.env.PREFIX || '.', // Command prefix
-    ownerName: process.env.OWNER_NAME || 'jing wu', // Owner name
-    ownerNumber: process.env.OWNER_NUMBER || '254792105520', // Your WhatsApp number
+    ownerName: process.env.OWNER_NAME || 'RAHUL-XD', // Owner name
+    ownerNumber: process.env.OWNER_NUMBER || '919356730236', // Your WhatsApp number
     mode: process.env.MODE || 'public', // Bot mode: 'public' or 'private'
-    region: process.env.REGION || 'Nigeria', // Region
+    region: process.env.REGION || 'INDIA 🇮🇳', // Region
     botName: process.env.BOT_NAME || 'Rias Gremory V3', // Bot name
     exifPack: process.env.EXIF_PACK || 'RIAS V3 LOVES', // Sticker pack name
     exifAuthor: process.env.EXIF_AUTHOR || 'Toxxic', // Author of the sticker pack
